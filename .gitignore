@@ -1,0 +1,5 @@
+*venv
+*awscred.pem
+*terraform.tfvars
+*.terraform*
+*terraform.tfstate*

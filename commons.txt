@@ -1,0 +1,1 @@
+scp -i "awscred.pem" -r /home/burhanuddin/Dev/devops/paasta/buildserver/ ubuntu@ec2-54-163-133-224.compute-1.amazonaws.com:~/
